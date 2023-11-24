@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MpSOdeQ8IWKeWzV9M28Px2/xk9YqdiZSgjDimn1b0D6M8MbfYK5zvnn7aatF70bWdiQjYEeBFhDJ1ScndRh57A==",
+  "dgSpecHash": "Sk4WAHD63JHTYwnR+X1xx8FgCMWg3GYOTNSB0qxo8gUh5cY6xMNeSzqkQOhokMQjoD46M3qcdiOhMM6Z5blA0g==",
   "success": true,
-  "projectFilePath": "D:\\GITHUB\\WS_GestionHumana\\WebService\\WebService\\WebService.csproj",
+  "projectFilePath": "D:\\GITHUB\\WS_Gestion_Humana\\WebService\\WebService\\WebService\\WebService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\junio\\.nuget\\packages\\aspnetcore.healthchecks.sqlserver\\7.0.0\\aspnetcore.healthchecks.sqlserver.7.0.0.nupkg.sha512",
     "C:\\Users\\junio\\.nuget\\packages\\aspnetcore.healthchecks.ui\\7.0.2\\aspnetcore.healthchecks.ui.7.0.2.nupkg.sha512",

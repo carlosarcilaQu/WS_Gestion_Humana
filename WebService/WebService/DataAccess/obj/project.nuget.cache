@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TyPsSlnt6krwojehvmpw81CwEOaKW1WgASuU2srJcFo3wM7Uz7KI9tbaY6Or9KH6dAzhhDLawAcuWEvP2nP0ZQ==",
+  "dgSpecHash": "v1wNlCTO/j5lVqOzxaiqXuQ/0ASVKX0XIb9SYDs3S6SKwQcJWeq9yJkwJ+Yj3sGyXfnqlb9ENeNWsWc+yH81Kg==",
   "success": true,
-  "projectFilePath": "D:\\GITHUB\\WS_GestionHumana\\WebService\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "D:\\GITHUB\\WS_Gestion_Humana\\WebService\\WebService\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\junio\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\junio\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

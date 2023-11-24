@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GITHUB\\WS_GestionHumana\\WebService\\Common\\Common.csproj": {}
+    "D:\\GITHUB\\WS_Gestion_Humana\\WebService\\WebService\\Common\\Common.csproj": {}
   },
   "projects": {
-    "D:\\GITHUB\\WS_GestionHumana\\WebService\\Common\\Common.csproj": {
+    "D:\\GITHUB\\WS_Gestion_Humana\\WebService\\WebService\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GITHUB\\WS_GestionHumana\\WebService\\Common\\Common.csproj",
+        "projectUniqueName": "D:\\GITHUB\\WS_Gestion_Humana\\WebService\\WebService\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "D:\\GITHUB\\WS_GestionHumana\\WebService\\Common\\Common.csproj",
+        "projectPath": "D:\\GITHUB\\WS_Gestion_Humana\\WebService\\WebService\\Common\\Common.csproj",
         "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-        "outputPath": "D:\\GITHUB\\WS_GestionHumana\\WebService\\Common\\obj\\",
+        "outputPath": "D:\\GITHUB\\WS_Gestion_Humana\\WebService\\WebService\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

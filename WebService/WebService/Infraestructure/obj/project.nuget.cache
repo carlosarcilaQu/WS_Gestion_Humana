@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QX/+CO1lwsuIzqEZwotNdB7cCQEECa3IQcv7zMr48rD2Wqj3m8r/5wwMx6V95bn2kUxKtZZ4I1R0tkHXTYJfQQ==",
+  "dgSpecHash": "Hz3OLq2L2yjp4IEuv10V993wpQUozH9BR9c0R9nQLuMOLvAzeubHVP1in+oF5GjAQVm3nUproTZtp0yQGgZeLQ==",
   "success": true,
-  "projectFilePath": "D:\\GITHUB\\WS_GestionHumana\\WebService\\Infraestructure\\Infrastructure.csproj",
+  "projectFilePath": "D:\\GITHUB\\WS_Gestion_Humana\\WebService\\WebService\\Infraestructure\\Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

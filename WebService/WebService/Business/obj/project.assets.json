@@ -12355,11 +12355,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GITHUB\\WS_GestionHumana\\WebService\\Business\\Business.csproj",
+      "projectUniqueName": "D:\\GITHUB\\WS_Gestion_Humana\\WebService\\WebService\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "D:\\GITHUB\\WS_GestionHumana\\WebService\\Business\\Business.csproj",
+      "projectPath": "D:\\GITHUB\\WS_Gestion_Humana\\WebService\\WebService\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\junio\\.nuget\\packages\\",
-      "outputPath": "D:\\GITHUB\\WS_GestionHumana\\WebService\\Business\\obj\\",
+      "outputPath": "D:\\GITHUB\\WS_Gestion_Humana\\WebService\\WebService\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -12381,11 +12381,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\GITHUB\\WS_GestionHumana\\WebService\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\GITHUB\\WS_GestionHumana\\WebService\\DataAccess\\DataAccess.csproj"
+            "D:\\GITHUB\\WS_Gestion_Humana\\WebService\\WebService\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\GITHUB\\WS_Gestion_Humana\\WebService\\WebService\\DataAccess\\DataAccess.csproj"
             },
-            "D:\\GITHUB\\WS_GestionHumana\\WebService\\DTO\\DTO.csproj": {
-              "projectPath": "D:\\GITHUB\\WS_GestionHumana\\WebService\\DTO\\DTO.csproj"
+            "D:\\GITHUB\\WS_Gestion_Humana\\WebService\\WebService\\DTO\\DTO.csproj": {
+              "projectPath": "D:\\GITHUB\\WS_Gestion_Humana\\WebService\\WebService\\DTO\\DTO.csproj"
             }
           }
         }
